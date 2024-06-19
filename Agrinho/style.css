@@ -1,0 +1,14 @@
+body{
+    background-color: turquoise;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:teal;
+}
+img{
+    width: 35%;
+    display: block;
+    margin: 0 auto;
+}
